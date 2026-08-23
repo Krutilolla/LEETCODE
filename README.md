@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Krutilolla/LEETCODE/tree/master/0063-unique-paths-ii) |
+## Math
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Krutilolla/LEETCODE/tree/master/1927-sum-game) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Krutilolla/LEETCODE/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Krutilolla/LEETCODE/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Krutilolla/LEETCODE/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
