@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Krutilolla/LEETCODE/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Krutilolla/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Krutilolla/LEETCODE/tree/master/0120-triangle) |
+| [1872-stone-game-viii](https://github.com/Krutilolla/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Krutilolla/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Krutilolla/LEETCODE/tree/master/0120-triangle) |
+| [1872-stone-game-viii](https://github.com/Krutilolla/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Matrix
 |  |
 | ------- |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Krutilolla/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Krutilolla/LEETCODE/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Krutilolla/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -34,5 +37,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Krutilolla/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Krutilolla/LEETCODE/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Krutilolla/LEETCODE/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Krutilolla/LEETCODE/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Krutilolla/LEETCODE/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
