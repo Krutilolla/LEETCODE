@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Krutilolla/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1872-stone-game-viii](https://github.com/Krutilolla/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Krutilolla/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Krutilolla/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krutilolla/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krutilolla/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Krutilolla/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Krutilolla/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krutilolla/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Krutilolla/LEETCODE/tree/master/1768-merge-strings-alternately) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Krutilolla/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Krutilolla/LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Krutilolla/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krutilolla/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Krutilolla/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Krutilolla/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Simulation
 |  |
 | ------- |
