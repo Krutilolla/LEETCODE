@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Krutilolla/LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krutilolla/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Krutilolla/LEETCODE/tree/master/0338-counting-bits) |
+| [1137-n-th-tribonacci-number](https://github.com/Krutilolla/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Krutilolla/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1872-stone-game-viii](https://github.com/Krutilolla/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Matrix
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Krutilolla/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/Krutilolla/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1872-stone-game-viii](https://github.com/Krutilolla/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Krutilolla/LEETCODE/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Krutilolla/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krutilolla/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Krutilolla/LEETCODE/tree/master/0872-leaf-similar-trees) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Krutilolla/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
