@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Krutilolla/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Krutilolla/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Krutilolla/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/Krutilolla/LEETCODE/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Krutilolla/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krutilolla/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Krutilolla/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Krutilolla/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Krutilolla/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0835-image-overlap](https://github.com/Krutilolla/LEETCODE/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krutilolla/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
