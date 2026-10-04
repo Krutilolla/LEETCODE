@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Krutilolla/LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krutilolla/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Krutilolla/LEETCODE/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/Krutilolla/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Krutilolla/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/Krutilolla/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Krutilolla/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Krutilolla/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Krutilolla/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krutilolla/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Krutilolla/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Krutilolla/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Krutilolla/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krutilolla/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Krutilolla/LEETCODE/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/Krutilolla/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Krutilolla/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Krutilolla/LEETCODE/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Krutilolla/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krutilolla/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Krutilolla/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Krutilolla/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Krutilolla/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Krutilolla/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krutilolla/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Krutilolla/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Krutilolla/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Krutilolla/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Krutilolla/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krutilolla/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krutilolla/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krutilolla/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
