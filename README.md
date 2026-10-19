@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Krutilolla/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krutilolla/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Krutilolla/LEETCODE/tree/master/1872-stone-game-viii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Krutilolla/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Krutilolla/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Krutilolla/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Krutilolla/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Krutilolla/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Krutilolla/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Krutilolla/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Krutilolla/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krutilolla/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Krutilolla/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krutilolla/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krutilolla/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Krutilolla/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Krutilolla/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Krutilolla/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Simulation
