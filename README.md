@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Krutilolla/LEETCODE/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Krutilolla/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krutilolla/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/Krutilolla/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Krutilolla/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krutilolla/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Krutilolla/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Krutilolla/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Krutilolla/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/Krutilolla/LEETCODE/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Krutilolla/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Krutilolla/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krutilolla/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Krutilolla/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krutilolla/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krutilolla/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Krutilolla/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krutilolla/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Euclidean Algorithm
 |  |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krutilolla/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Krutilolla/LEETCODE/tree/master/0872-leaf-similar-trees) |
+| [1254-number-of-closed-islands](https://github.com/Krutilolla/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Krutilolla/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
