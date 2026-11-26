@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Krutilolla/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Krutilolla/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Krutilolla/LEETCODE/tree/master/1927-sum-game) |
+| [3360-stone-removal-game](https://github.com/Krutilolla/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/Krutilolla/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Krutilolla/LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krutilolla/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Krutilolla/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Krutilolla/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/Krutilolla/LEETCODE/tree/master/3360-stone-removal-game) |
 ## Design
 |  |
 | ------- |
